@@ -1,4 +1,4 @@
-Bonjour Hello 👋
+Bonjour le world, Hello the monde 👋
 
 I'm Clement, a student in C language, generally interest in programming stuff.
 I enjoy elegant interfaces and to understand deeply how things works. Currently exploring C and computer science, enjoying exploring unknown.
