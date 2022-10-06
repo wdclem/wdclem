@@ -1,7 +1,9 @@
 Bonjour le world, Hello the monde 👋
 
 I'm Clement, a student in C language, generally interest in programming stuff.
-I enjoy elegant interfaces and to understand deeply how things works. Currently exploring C and computer science, enjoying exploring unknown.
+I enjoy understanding how things works and break them while trying to.
+
+Currently exploring C, computer science and etting familliar with security things
 
 🫂 Have a great day ! 
 
