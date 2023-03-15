@@ -7,7 +7,7 @@ Currently exploring C, and computer science
 
 🫂 Have a great day ! 
 
-💬 Contact me about anything.
+💬 Feel free to contact me.
 
 <!---
 wdclem/wdclem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
