@@ -1,7 +1,9 @@
 Bonjour le world, Hello the monde 👋
 
 I'm Clement, a student at Hive Helsinki, interest in  everythink inovative and related to computer.
+  <br>
 Career shifter to Software Development with previous background coktail bartending.
+  <br>
 I enjoy understanding how things works and break them while trying to.
 
 🔭 Currently focusing on a full stack development using Typescript and React.
@@ -13,6 +15,7 @@ I enjoy understanding how things works and break them while trying to.
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <br>
 </div>
 
 
