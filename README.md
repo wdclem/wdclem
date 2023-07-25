@@ -1,31 +1,30 @@
 Bonjour le world, Hello the monde 👋
 
-I'm Clement, a student at Hive Helsinki, interest in  everythink inovative and related to computer.
-  <br>
-Career shifter to Software Development with previous background coktail bartending.
-  <br>
-I enjoy understanding how things works and break them while trying to.
+# Hello World! 👋
 
-🔭 Currently focusing on a full stack development using Typescript and React.
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-  <br>
+I'm Clément, a junior full-stack developer with a passion for innovative and computer-related projects. I recently shifted my career from cocktail bartending to software development @hive helsinki, where I enjoy diving into how things work and learning by breaking them.
 
-🫂 Have a great day ! 
-  <br>
-💬 Feel free to contact me.
+## 🛠️ Technologies & Tools
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/ccariou/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+I'm currently focusing on full-stack development various framework, and I'm proficient in the following technologies and tools:
+
+- **Frontend:** React, HTML5, CSS3, JavaScript
+- **Backend:** Node, express
+- **Database:** MySQL
+- **Version Control:** Git
+- **General Purpose:** C
+
+
+## 📫 Get in Touch
+
+Feel free to reach out if you'd like to connect or have any questions:
+
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ccariou/)
+
+## 🫂 Have a great day!
+
+Thank you for visiting my GitHub profile! Have a wonderful day, and happy coding! 💻
+
 
 <!---
 wdclem/wdclem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
