@@ -1,7 +1,5 @@
 Bonjour le world, Hello the monde 👋
 
-# Hello World! 👋
-
 I'm Clément, a junior full-stack developer with a passion for innovative and computer-related projects. I recently shifted my career from cocktail bartending to software development @hive helsinki, where I enjoy diving into how things work and learning by breaking them.
 
 ## 🛠️ Technologies & Tools
