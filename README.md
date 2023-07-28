@@ -17,7 +17,7 @@ I'm currently focusing on full-stack development various framework, and I'm prof
 
 Feel free to reach out if you'd like to connect or have any questions:
 
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ccariou/)
+- LinkedIn: [My Profile](https://www.linkedin.com/in/ccariou/)
 
 ## 🫂 Have a great day!
 
