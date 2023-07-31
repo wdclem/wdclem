@@ -1,12 +1,12 @@
 Bonjour le world, Hello the monde 👋
 
-I'm Clément, a junior full-stack developer with a passion for innovative and computer-related projects. I recently shifted my career from cocktail bartending to software development @hive helsinki, where I enjoy diving into how things work and learning by breaking them.
+I'm Clément, a junior full-stack developer with a passion for innovative and computer-related projects. I recently shifted my career from cocktail bartending to software development @Hive Helsinki, where I enjoy diving into how things work and learning by doing.
 
 ## 🛠️ Technologies & Tools
 
 I'm currently focusing on full-stack development various framework, and I'm proficient in the following technologies and tools:
 
-- **Frontend:** React, HTML5, CSS3, JavaScript
+- **Frontend:** React, Next, HTML5, CSS3, JavaScript
 - **Backend:** Node, express
 - **Database:** MySQL
 - **Version Control:** Git
