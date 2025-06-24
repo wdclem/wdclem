@@ -1,26 +1,20 @@
-Bonjour le world, Hello the monde 👋
+## 👋 Hi, I'm Clément
 
-I'm Clément, a junior developer with a passion for innovative and computer-related projects. I recently shifted my career from cocktail bartending to software development @Hive Helsinki, where I enjoy diving into how things work and learning by doing.
+I'm currently working as a **Technical & Pedagogical Manager at Hive Helsinki**.
 
-## 🛠️ Technologies & Tools
+### 💼 What I do
+- 🛠 Build **internal tools and automation** to support education and streamline team workflows  
+- 📊 Work with **data** using **MySQL**, **Metabase**, and custom scripts for research and reporting  
+- 👥 Create solutions for both **technical** and **non-technical** users  
+- 🎓 Develop and maintain **pedagogical resources** for project-based learning  
 
+### 🔍 Background & Interests
+- 🍸 Spent 10+ years in the **hospitality industry**, focusing on leadership, operations & user experience  
+- 🧠 Passionate about problem solving, continuous learning, and building tools with real-world impact  
+- 🌱 Currently exploring ways to bridge **automation**, **education**, and **data insights**  
 
-- **Frontend:** React, Next, HTML5, CSS3, JavaScript
-- **Backend:** Node, express
-- **Database:** MySQL
-- **Version Control:** Git
-- **General Purpose:** C, python
-
-
-## 📫 Get in Touch
-
-Feel free to reach out if you'd like to connect or have any questions:
-
-- LinkedIn: [My Profile](https://www.linkedin.com/in/ccariou/)
-
-## 🫂 Have a great day!
-
-Thank you for visiting my GitHub profile! Have a wonderful day, and happy coding! 💻
+### 📫 Get in touch
+**Email:** [clementpierre.cariou@gmail.com](mailto:clementpierre.cariou@gmail.com)
 
 
 <!---
